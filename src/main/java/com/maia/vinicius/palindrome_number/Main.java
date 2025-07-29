@@ -1,0 +1,9 @@
+package com.maia.vinicius.palindrome_number;
+
+public class Main {
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+
+        System.out.println(solution.isPalindrome(121));
+    }
+}

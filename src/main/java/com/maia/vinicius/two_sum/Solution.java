@@ -1,5 +1,7 @@
 package com.maia.vinicius.two_sum;
 
+// Developed by: Vinicius Maia
+
 /*
 --------------------- ANSWER ------------------------------
 
