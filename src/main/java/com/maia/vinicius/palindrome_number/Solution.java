@@ -4,6 +4,9 @@ package com.maia.vinicius.palindrome_number;
 
 // Given an integer x, return true if x is a palindrome, and false otherwise.
 
+
+// NOTE: I just tried to use recursive to train algorithms. Its not the best memory usage example.
+
 public class Solution {
     public boolean isPalindrome(int x) {
 
@@ -26,9 +29,7 @@ public class Solution {
 
             divisor /= 100;
         }
-
         return true;
-
     }
 
     public static int recursiveMod(int x, int divisor) {

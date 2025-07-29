@@ -2,7 +2,7 @@ package com.maia.vinicius.palindrome_number;
 
 public class Main {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        FasterSolution solution = new FasterSolution();
 
         System.out.println(solution.isPalindrome(121));
     }
